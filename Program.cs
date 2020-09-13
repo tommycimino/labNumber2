@@ -20,7 +20,7 @@ namespace lab_2
         static void WordCounter(string userinput)
         {
             int wordcount = userinput.Split().Length;
-            // turns the string into substrings on an array as elements
+            // turns the string into substrings on an array as elements (i think)
             // and counts the # of elements in the array (word count)
 
 
